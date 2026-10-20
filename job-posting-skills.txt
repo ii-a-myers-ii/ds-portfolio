@@ -1,0 +1,16 @@
+Data Scientist: Mid-level
+Required qualifications: Degree in Data Science, statistics, math or related field. 3+ years of expereince. Python, SQL, R programming
+Preferred: Generative AI, LLMs, AWS cloud platforms, experience deploying machine learning models into production.
+
+Associate Biostatistican: Entry-level
+Required qualifications: Master's degree in Biostatistics, statistics or related field. 1-2 years of experience. R, SAS, SPSS software
+Preferred: Experience in a healthcare or clinical setting and clinical data management systems.
+
+Both Postings:
+R programming language
+Statistical modeling, data analysis, data visualization
+Communicating technical concepts to non-technical audiences.
+
+What stood out to me:
+The difference in the software tools used between each industry stood out to me, with the data science role using Python/SQL and the biostatistics role using SAS/SPSS.
+However, both emphasize data analysis, data visualization, and explaining technical findings to non-technical audiences.
